@@ -21,15 +21,15 @@ This is an application for login authentication and account registration using N
 
 4.  Run the Prisma migrations to create the tables in the database:
 
-`npx prisma migrate dev` 
+- `npx prisma migrate dev` 
 
 5.  Start the Node.js server:
 
-`nodemon backend/server.js` 
+- `nodemon backend/server.js` 
 
 6.  Start the React application:
 
-`npm run dev` 
+- `npm run dev` 
 
 
 ## Usage
