@@ -11,13 +11,13 @@ This is an application for login authentication and account registration using N
 
 2.  Install the Node.js server dependencies:
 
-`cd LoginAuthNodeJs`
-`npm install`
+- `cd LoginAuthNodeJs`
+- `npm install`
 
 3.  Create a `.env` file with the database information and secret key:
 
-`DATABASE_URL=your@database-here`
-`SECRET=random-secret` 
+- `DATABASE_URL=your@database-here`
+- `SECRET=random-secret` 
 
 4.  Run the Prisma migrations to create the tables in the database:
 
