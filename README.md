@@ -3,6 +3,14 @@
 
 This is an application for login authentication and account registration using Node.js, Prisma ORM, Express, and React to consume the API.
 
+## Demo
+
+###Register
+- ![](https://github.com/guilhermevialle/LoginAuthNodeJs/blob/main/preview/register-demo.gif)
+
+###Login
+- ![](https://github.com/guilhermevialle/LoginAuthNodeJs/blob/main/preview/login-demo.gif)
+
 ## Installation
 
 1.  Clone this repository to your local machine:
