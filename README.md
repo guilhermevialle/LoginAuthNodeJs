@@ -57,5 +57,3 @@ The client is built with React and consumes the API to display the data. The ava
     
 -   `"/dashboard"`: the profile page, displays the data of the authenticated user.
     
-
-To access the private pages, the user needs to be authenticated.
