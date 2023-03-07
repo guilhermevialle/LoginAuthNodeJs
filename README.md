@@ -6,7 +6,7 @@ This is an application for login authentication and account registration using N
 ## Demo
 
 ### Register
-![](https://github.com/guilhermevialle/LoginAuthNodeJs/blob/main/preview/resgister-demo.gif)
+![](https://github.com/guilhermevialle/LoginAuthNodeJs/blob/main/preview/register-demo.gif)
 
 
 ### Login
