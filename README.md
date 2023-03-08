@@ -16,7 +16,7 @@ This is an application for login authentication and account registration using N
 
 1.  Clone this repository to your local machine:
 
-`git clone https://github.com/guilhermevialle/LoginAuthNodeJs.git` 
+- `git clone https://github.com/guilhermevialle/LoginAuthNodeJs.git` 
 
 2.  Install the Node.js server dependencies:
 
